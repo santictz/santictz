@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/santictz" target="blank"><img src="https://img.shields.io/twitter/follow/santictz?logo=twitter&style=for-the-badge" alt="santictz" /></a> </p>
 
-- 🔭 I’m currently working on [Cognizant Softvision](https://www.cognizantsoftvision.com/) **as Software Engineer**
+- 🔭 I’m currently working on [Fyo](https://www.fyo.com/) **as Backend Software Developer**
 
-- 🌱 I’m currently learning **React JS, Node JS and ASP NET Core**
+- 🌱 I’m currently learning **Golang, ASP.NET Core and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santictz/](https://github.com/santictz/)
 
